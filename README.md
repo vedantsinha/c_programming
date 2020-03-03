@@ -1,0 +1,2 @@
+# c_programming
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7e50778dfa0b44a0896819542e4dcbb8)](https://app.codacy.com/manual/vedantsinha/c_programming?utm_source=github.com&utm_medium=referral&utm_content=vedantsinha/c_programming&utm_campaign=Badge_Grade_Dashboard)
